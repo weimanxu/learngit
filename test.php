@@ -4,3 +4,6 @@ echo '<pre>';
 print_r(6666);
 echo '</pre>';die;
 $a = [2,3,5,6,7];
+foreach ($a as $k){
+    echo $k;
+}
