@@ -11,3 +11,19 @@ header("Content-type: text/html; charset=utf-8");
 echo '<pre>';
 print_r(555);
 echo '</pre>';die;
+
+
+header("Content-type: text/html; charset=utf-8");
+echo '<pre>';
+print_r(555);
+echo '</pre>';die;
+header("Content-type: text/html; charset=utf-8");
+echo '<pre>';
+print_r(555);
+echo '</pre>';die;
+header("Content-type: text/html; charset=utf-8");
+echo '<pre>';
+print_r(555);
+echo '</pre>';die;
+
+
