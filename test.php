@@ -13,6 +13,8 @@ print_r(555);
 echo '</pre>';die;
 
 
+echo 5555; 
+
 header("Content-type: text/html; charset=utf-8");
 echo '<pre>';
 print_r(555);
